@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7bd7004-c3c7-457f-954c-4fea82438ee3" name="Changes" comment="first commit" />
+    <list default="true" id="b7bd7004-c3c7-457f-954c-4fea82438ee3" name="Changes" comment="&quot;first commit&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744136402749</updated>
       <workItem from="1744136403897" duration="8545000" />
-      <workItem from="1744189661484" duration="2357000" />
+      <workItem from="1744189661484" duration="2681000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -79,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744195268765</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;first commit&quot;">
+      <option name="closed" value="true" />
+      <created>1744195399657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744195399657</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="&quot;first commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;first commit&quot;" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProjectlab4$lab4.coverage" NAME="lab4 Coverage Results" MODIFIED="1744137890889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
